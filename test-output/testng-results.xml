@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42663" started-at="2016-06-30T12:27:33Z" finished-at="2016-06-30T12:28:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42663" started-at="2016-06-30T12:27:33Z" finished-at="2016-06-30T12:28:15Z">
+      <class name="bingtest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:bingtest@68256894]" name="beforeClass" is-config="true" duration-ms="3894" started-at="2016-06-30T17:57:33Z" finished-at="2016-06-30T17:57:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testBingTranslator(java.lang.String)[pri:0, instance:bingtest@68256894]" name="testBingTranslator" duration-ms="4577" started-at="2016-06-30T17:57:37Z" data-provider="linesObjects" finished-at="2016-06-30T17:57:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[English,French,Hello how are you]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBingTranslator -->
+        <test-method status="PASS" signature="testBingTranslator(java.lang.String)[pri:0, instance:bingtest@68256894]" name="testBingTranslator" duration-ms="3870" started-at="2016-06-30T17:57:41Z" data-provider="linesObjects" finished-at="2016-06-30T17:57:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[,English,Bonjour]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBingTranslator -->
+        <test-method status="PASS" signature="testBingTranslator(java.lang.String)[pri:0, instance:bingtest@68256894]" name="testBingTranslator" duration-ms="3794" started-at="2016-06-30T17:57:45Z" data-provider="linesObjects" finished-at="2016-06-30T17:57:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[,French,Hello how are you]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBingTranslator -->
+        <test-method status="PASS" signature="testBingTranslator(java.lang.String)[pri:0, instance:bingtest@68256894]" name="testBingTranslator" duration-ms="3715" started-at="2016-06-30T17:57:49Z" data-provider="linesObjects" finished-at="2016-06-30T17:57:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dutch,English,Komst op kwala bezit is langs al.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBingTranslator -->
+        <test-method status="PASS" signature="testBingTranslator(java.lang.String)[pri:0, instance:bingtest@68256894]" name="testBingTranslator" duration-ms="3788" started-at="2016-06-30T17:57:52Z" data-provider="linesObjects" finished-at="2016-06-30T17:57:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chinese Traditional,English,可 去 事 以測機 訖乃返 樂而不淫 在一處. 訖乃返 建章曰： ﻿白圭志 己轉身 危德至 第十一回]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBingTranslator -->
+        <test-method status="PASS" signature="testBingTranslator(java.lang.String)[pri:0, instance:bingtest@68256894]" name="testBingTranslator" duration-ms="3753" started-at="2016-06-30T17:57:56Z" data-provider="linesObjects" finished-at="2016-06-30T17:58:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Finnish,English,Juonut aiotte kaataa voi oli viinaa ero vapaus]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBingTranslator -->
+        <test-method status="PASS" signature="testBingTranslator(java.lang.String)[pri:0, instance:bingtest@68256894]" name="testBingTranslator" duration-ms="3806" started-at="2016-06-30T17:58:00Z" data-provider="linesObjects" finished-at="2016-06-30T17:58:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[,English,Ku um nachmittag knabenhaft fluchtigen.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBingTranslator -->
+        <test-method status="PASS" signature="testBingTranslator(java.lang.String)[pri:0, instance:bingtest@68256894]" name="testBingTranslator" duration-ms="3804" started-at="2016-06-30T17:58:04Z" data-provider="linesObjects" finished-at="2016-06-30T17:58:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[,English,Αλλαγών πώς δύο υπομονή σην αίσθηση υδάτινη αλλαγές κώδικες]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBingTranslator -->
+        <test-method status="PASS" signature="testBingTranslator(java.lang.String)[pri:0, instance:bingtest@68256894]" name="testBingTranslator" duration-ms="3780" started-at="2016-06-30T17:58:08Z" data-provider="linesObjects" finished-at="2016-06-30T17:58:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[,English,Col sfinge volevo udi ancora via creare stanco ideale]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBingTranslator -->
+        <test-method status="PASS" signature="testBingTranslator(java.lang.String)[pri:0, instance:bingtest@68256894]" name="testBingTranslator" duration-ms="3847" started-at="2016-06-30T17:58:11Z" data-provider="linesObjects" finished-at="2016-06-30T17:58:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[,English,וזיתיהם המרחקים שהדברים נִכְנֹס. בה בז זן]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBingTranslator -->
+      </class> <!-- bingtest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
